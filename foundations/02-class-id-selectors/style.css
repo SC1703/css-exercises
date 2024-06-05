@@ -1,0 +1,19 @@
+.styled{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
